@@ -8,3 +8,4 @@
 - Delete tasks
 
 Execute by - npm run dev
+create env file- localhost/yourdatabasename
